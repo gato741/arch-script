@@ -1,6 +1,6 @@
 /* Last updated: xx.xx.xxxx, xx:xx
    Report bugs if there are any */
 
-#import <stdio.h>
-#import <stdlib.h>
-#import <unistd.h>
+#include <stdio.h>
+#include <stdlib.h>
+#include <unistd.h>
