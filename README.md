@@ -7,7 +7,8 @@
 - Weather App
 - Password Generator
 - Currency Converter
-- Random Quote Generator (idk why would someone need it but 
+- Unit Converter (lb -> kg, ft -> m, etc.)
+- Random Quote Generator
 - Guessing Game
 
 **Requirements:**
