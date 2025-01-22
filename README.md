@@ -1,8 +1,11 @@
-## Tiny Terminal Tools
+## 🖥️ Tiny Terminal Tools
 
-### Set of terminal tools that will be useful if you would ever want to use linux without a DE/WM
+###📀 Set of terminal tools that will be useful if you would ever want to use linux without a DE/WM
 
-**List of all tools/scripts that are included:**
+**💾 Compile C programs with**
+```gcc -o program-name program-name.c``` 
+
+**🚀 List of all tools/scripts that are included:**
 - Calculator
 - Clock
 - Notes App
@@ -13,7 +16,7 @@
 - Random Quote Generator
 - Guessing Game
 
-**Requirements:**
+**🧾 Requirements:**
 - git
 - gcc
 - node
