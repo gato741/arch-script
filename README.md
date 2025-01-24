@@ -31,5 +31,5 @@
 
 **🧾 Requirements:**
 - git
-- gcc
+- any C compiler (e.g. gcc)
 - node
