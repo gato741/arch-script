@@ -22,12 +22,10 @@
 - Calculator
 - Clock
 - Notes App
-- Weather App
 - Password Generator
-- Currency Converter
 - Unit Converter (lb -> kg, ft -> m, etc.)
-- Random Quote Generator
 - Guessing Game
+- And more!
 
 **🧾 Requirements:**
 - git
