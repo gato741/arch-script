@@ -9,16 +9,16 @@ char op;
 
 void calc() {
     if (op == '+') {
-        printf("\n%.2f + %.2f = %.2f", num1, num2, num1 + num2);
+        printf("\n%.2f + %.2f = %.2f\n", num1, num2, num1 + num2);
     } else if (op == '-') {
-        printf("\n%.2f - %.2f = %.2f", num1, num2, num1 - num2);
+        printf("\n%.2f - %.2f = %.2f\n", num1, num2, num1 - num2);
     } else if (op == '*') {
-        printf("\n%.2f * %.2f = %.2f", num1, num2, num1 * num2);
+        printf("\n%.2f * %.2f = %.2f\n", num1, num2, num1 * num2);
     } else if (op == '/') {
         if (num2 == 0) {
             printf("\nYou can\'t divide by 0!");
         } else {
-            printf("\n%.2f / %.2f = %.2f", num1, num2, num1 / num2);
+            printf("\n%.2f / %.2f = %.2f\n", num1, num2, num1 / num2);
         }
     } else {
         printf("\nWrong operator! (try +, -, * or /)");
