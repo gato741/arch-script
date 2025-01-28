@@ -18,6 +18,10 @@
 
 ```node program.js```
 
+**⛅ Note!**
+for the weather app to work you need to install the dependencies
+```npm install axios readline-sync```
+
 **🚀 List of all tools/scripts that are included:**
 - Calculator
 - Clock
