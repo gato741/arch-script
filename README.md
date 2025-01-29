@@ -25,6 +25,7 @@
 - Password Generator
 - Unit Converter (lb -> kg, ft -> m, etc.)
 - Guessing Game
+- A text editor (https://github.com/gato741/gsuperi)
 - And more!
 
 **🧾 Requirements:**
