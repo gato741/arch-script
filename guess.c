@@ -4,3 +4,10 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <unistd.h>
+
+typedef int i;
+
+i main() {
+    printf("Hi");
+    return 0;
+}
